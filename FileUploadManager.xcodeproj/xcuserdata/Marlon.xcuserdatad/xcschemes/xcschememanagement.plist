@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>FileUploadManager.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>FileUploader.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>FileUploaderManager.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>37F856881CC9B26D002AC284</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>37F856961CC9B305002AC284</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>37F856A71CC9B3F0002AC284</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>37F856B41CC9B43A002AC284</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>37F96CB01CC8B58A00FCE99A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
