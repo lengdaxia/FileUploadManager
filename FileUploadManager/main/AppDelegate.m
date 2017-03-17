@@ -25,6 +25,7 @@
     
     [_window makeKeyAndVisible];
     
+    NSLog(@"hello you");
     return YES;
 }
 
